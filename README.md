@@ -1,4 +1,4 @@
-# 3D Braille Map
+# 3D Braille Map - Winning project of the 3D Printing Contest (University of Patras) - "Changing the way we see disability" event
 
 ![wide](https://user-images.githubusercontent.com/36283973/172066147-de6a22e1-d803-4b40-98be-4ccf347aecd0.png)
 
